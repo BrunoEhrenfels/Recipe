@@ -53,8 +53,16 @@ body {
 .title {
 	margin-top: 1em;
 	font-size: 34px;
+	text-align: center;
 }
 .question {
 	margin-top: 3em;
 }
 
+.ingredient {
+	border: 8px solid #ccb;
+	padding-top: .5em;
+	padding-left: 1.5em;
+	padding-bottom: .5em;
+	
+}
