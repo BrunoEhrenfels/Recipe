@@ -43,10 +43,9 @@ body {
 	margin-right: auto;
 	margin-bottom: 1em;
 	margin-left: auto;
-	width: 90%;
+	width: 95%;
 	max-width: 1200px;
 	padding: 2.5em;
-	border: 5px solid #ccb;
 	background-color: beige;
 }
 
@@ -57,12 +56,14 @@ body {
 }
 .question {
 	margin-top: 3em;
+	border-bottom: 8px solid #ccb
 }
 
 .ingredient {
-	border: 8px solid #ccb;
-	padding-top: .5em;
-	padding-left: 1.5em;
-	padding-bottom: .5em;
-	
+	border-bottom: 8px solid #ccb
 }
+
+.dough {
+	border-bottom: 8px solid #ccb
+}
+
